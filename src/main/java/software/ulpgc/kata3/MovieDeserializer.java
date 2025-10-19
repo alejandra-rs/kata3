@@ -1,4 +1,4 @@
-package software.ulpgc.kata2;
+package software.ulpgc.kata3;
 
 public class MovieDeserializer {
     public static Movie fromTsv(String str) {
